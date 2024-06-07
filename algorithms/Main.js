@@ -1,6 +1,6 @@
 import RealCubeCol from "../RealCubeCol.js";
 import Algorithm from "./Algorithm.js";
-import CurrentCube from "./currentCube.js";
+import CurrentCube from "./CurrentCube.js";
 import SubCommand from "./SubCommands.js";
 
 
